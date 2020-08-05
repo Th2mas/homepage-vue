@@ -1,0 +1,54 @@
+[
+  {
+    "title": {
+      "en": "Media Informatics and Visual Computing",
+      "de": "Medieninformatik und Visual Computing",
+      "link": "https://tiss.tuwien.ac.at/curriculum/public/curriculum.xhtml?dswid=5468&dsrid=945&key=45669"
+    },
+    "abbreviation": "MINF",
+    "degree": {
+      "full": "Bachelor of Science",
+      "abbreviation": "BSc."
+    },
+    "duration": {
+      "from": 2014,
+      "to": 2019
+    },
+    "university": {
+      "en": "TU Vienna",
+      "de": "TU Wien",
+      "link": "https://www.tuwien.at/"
+    },
+    "thesis": {
+      "title": "An interactive dashboard approach for the visual analysis of rocket flight data",
+      "link": "assets/pdf/FMS.pdf"
+    }
+  },
+  {
+    "title": {
+      "en": "Electrical Engineering and Information Technology",
+      "de": "Elektrotechnik und Informationstechnik",
+      "link": "https://tiss.tuwien.ac.at/curriculum/public/curriculum.xhtml?dswid=5468&dsrid=698&key=58908"
+    },
+    "abbreviation": "ETIT",
+    "degree": {
+      "full": "Bachelor of Science",
+      "abbreviation": "BSc."
+    },
+    "duration": {
+      "from": 2018
+    },
+    "university": {
+      "en": "TU Vienna",
+      "de": "TU Wien",
+      "link": "https://www.tuwien.at/"
+    },
+    "exchange": {
+      "title": "Industrial Engineering",
+      "period": "Summer semester",
+      "year": 2020,
+      "university": "Universitat Politècnica de València",
+      "link": "https://www.upv.es/"
+    }
+  }
+]

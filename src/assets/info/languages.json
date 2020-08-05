@@ -1,0 +1,22 @@
+[
+  {
+    "name": "German",
+    "level": "C2",
+    "additional": "Mothertongue"
+  },
+  {
+    "name": "English",
+    "level": "B2",
+    "additional": "Fluent"
+  },
+  {
+    "name": "Russian",
+    "level": "B2",
+    "additional": "Mothertongue"
+  },
+  {
+    "name": "Spanish",
+    "level": "A2",
+    "additional": "Basic"
+  }
+]

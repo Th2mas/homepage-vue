@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Vamp Attack",
+    "abbreviation": "VA",
+    "description": "A 2D endless runner game in which a vampire needs to survive as long as possible",
+    "link": "https://gitlab.com/Th2mas/Vamp-Attack",
+    "display": true,
+    "language": ["Java", "Android"],
+    "type": "Game"
+  },
+  {
+    "name": "Live Again",
+    "abbreviation": "LA",
+    "description": "A low-polygon 3D Jump'n Run game using OpenGL",
+    "link": "https://gitlab.com/Th2mas/live-again",
+    "display": true,
+    "language": ["C++"],
+    "type": "Game"
+  },
+  {
+    "name": "Conquer The World",
+    "abbreviation": "CTW",
+    "description": "A 'Risk' like game with JavaFX",
+    "link": "https://github.com/Th2mas/conquer-the-world",
+    "display": true,
+    "language": ["Java"],
+    "type": "Game"
+  },
+  {
+    "name": "Flight Managament System",
+    "abbreviation": "FMS",
+    "description": "A system for visualizing and analyzing flight data",
+    "link": "https://github.com/SpaceTeam/fms-gui-web",
+    "display": true,
+    "language": ["Angular"],
+    "type": "Management"
+  },
+  {
+    "name": "Homepage",
+    "abbreviation": "HP",
+    "description": "My homepage, containing achievements, progress and current interests",
+    "link": "https://th2mas.github.io",
+    "display": true,
+    "language": ["Vue", "Quasar"],
+    "type": "Information"
+  },
+  {
+    "name": "Raspberry Typescript",
+    "abbreviation": "RT",
+    "description": "A collection of small electronics projects with the Raspberry Pi 3, written in Typescript",
+    "link": "https://github.com/Th2mas/raspberry-typescript",
+    "display": true,
+    "language": ["TypeScript"],
+    "type": "Electronics"
+  }
+]

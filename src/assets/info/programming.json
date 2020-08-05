@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Backend",
+    "list": [
+      {
+        "name": "Java",
+        "level": "Intermediate"
+      },
+      {
+        "name": "C",
+        "level": "Basic"
+      },
+      {
+        "name": "C++",
+        "level": "Basic"
+      },
+      {
+        "name": "Matlab",
+        "level": "Basic"
+      }
+    ]
+  },
+  {
+    "name": "Frontend",
+    "list": [
+      {
+        "name": "HTML",
+        "level": "Intermediate"
+      },
+      {
+        "name": "CSS",
+        "level": "Intermediate",
+        "list": [
+          {
+            "name": "SCSS",
+            "level": "Basic"
+          }
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Intermediate",
+        "list": [
+          {
+            "name": "jQuery",
+            "level": "Basic"
+          },
+          {
+            "name": "NodeJS",
+            "level": "Basic"
+          },
+          {
+            "name": "d3",
+            "level": "Basic"
+          },
+          {
+            "name": "TypeScript",
+            "level": "Intermediate"
+          },
+          {
+            "name": "Angular",
+            "level": "Intermediate"
+          },
+          {
+            "name": "VueJS",
+            "level": "Basic"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Other",
+    "list": [
+      {
+        "name": "XML",
+        "level": "Basic"
+      },
+      {
+        "name": "Linux",
+        "level": "Basic"
+      },
+      {
+        "name": "Git",
+        "level": "Basic"
+      }
+    ]
+  }
+]
